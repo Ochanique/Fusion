@@ -1,0 +1,33 @@
+
+.services-statistics{
+    margin-top: 20px;
+    color: #252525;
+    background: #ebebeb;
+    margin-bottom: 100px;
+    height: 800px;
+    padding: 30px;
+}
+
+
+.services-statistics .services-hero h1
+{
+    font-size: 65px;
+    justify-items: center;
+
+}
+
+.services-statistics .services-hero {
+    position: relative;
+    top: 150px;
+}
+
+.services-statistics  img{
+    width: 500px;
+    float: right;
+    position: relative;
+    top: -300px;
+    margin-right: 70px;
+   
+}
+
+

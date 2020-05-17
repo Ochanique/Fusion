@@ -1,0 +1,49 @@
+.contact{
+    background: #ebebeb;
+    height: 850px;
+}
+.contact .contact-info{
+    height: 600px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+  
+}
+.contact .contact-info .form{
+    display: block;
+    height: inherit;
+    width: 500px;
+}
+
+.contact .contact-info .form .first{
+ display:inline-block;
+ width: 500px;
+   
+}
+
+.contact .contact-info .form .second{
+   display: block;
+}
+
+.contact .contact-info .title{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+form input,
+form textarea{
+    width:500px;
+    padding: 20px;
+    border:3px solid #ebebeb;
+    margin: 20px;
+    outline: none;
+    font-size: 1.2rem;
+    color: #373d46;
+    position: relative;
+    left:50%;
+    right: 50%;
+    transform: translateX(-50%);
+    
+}
+

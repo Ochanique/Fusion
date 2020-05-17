@@ -1,0 +1,13 @@
+.offer{
+   
+    padding: 30px;
+}
+
+.offer button{
+    float: right;
+    position: relative;
+    top: -150px;
+}
+.offer h1{
+    font-size: 45px;
+}

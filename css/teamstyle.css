@@ -1,0 +1,58 @@
+.team{
+    background: #e5e5e5;
+    color: #252525;
+    height: 800px;
+}
+.team .top-row,
+.team .second-row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.team .second-row{
+margin-top: 50px;
+}
+.team .profile{
+    display: flex; 
+    background: #fff;
+    width: 700px;
+    height: 300px;
+    border-radius: 4px;
+}
+
+
+.team .profile img{
+    width:200px;
+    height:300px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.team .profile .social-icons{
+    margin-top: 120px;
+    display: flex;
+    width: 100px;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.team .profile .social-icons img{
+    width: 24px;
+    height: 24px;
+}
+.team .hero-content{
+    margin: 20px;
+}
+.team .hero-content .smi{
+margin-right: 20px;
+}
+
+.team .hero-content .text{
+    position: relative;
+    top:-30px;
+    left: 0;
+    text-align: left;
+    align-content: flex-start;
+    height: 100px;
+}
+
+
